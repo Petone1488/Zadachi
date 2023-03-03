@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\bin\Debug\net7.0\Lesson_1.exe
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\bin\Debug\net7.0\Lesson_1.deps.json
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\bin\Debug\net7.0\Lesson_1.runtimeconfig.json
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\bin\Debug\net7.0\Lesson_1.dll
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\bin\Debug\net7.0\Lesson_1.pdb
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\Lesson_1.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\Lesson_1.AssemblyInfo.cs
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\Lesson_1.dll
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\refint\Lesson_1.dll
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\Lesson_1.pdb
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\Lesson_1.genruntimeconfig.cache
+C:\Users\home\Desktop\Projects\C_youtube\Lesson_1\obj\Debug\net7.0\ref\Lesson_1.dll
