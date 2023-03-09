@@ -1,14 +1,19 @@
 ﻿// Console.WriteLine("Hello, World!");
-int a,b;
-a=2;
-b=1;
+// int a,b;
+// a=2;
+// b=1;
 
-Console.WriteLine(a);
+// Console.WriteLine(a);
 
-System.Console.WriteLine(b);
+// System.Console.WriteLine(b);
 
-bool variable = true;
-bool variable2 = false;
+// bool variable = true;
+// bool variable2 = false;
 
-System.Console.WriteLine(variable);
-System.Console.WriteLine(variable2);
+// System.Console.WriteLine(variable);
+// System.Console.WriteLine(variable2);
+
+string ;
+A = Console.ReadLine();
+Console.WriteLine("Моё имя " + A);
+
