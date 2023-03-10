@@ -28,20 +28,51 @@
 // int result = a + b;
 // Console.WriteLine("Сумма чисел = " + result);
 
-int numbers;
-numbers = 2;
-int numbers2;
-numbers2 = 6;
-int numbers3 = 2;
-int result;
-result = ((numbers + numbers2)/numbers3)/2;
-Console.WriteLine("Результат деления = " + result);
+// double a, b, c, d, e, f;
+// a = 1.2;
+// b = 2.3;
+// c = 3;
+// d = 4;
+// e = 5;
+// f = 6;
+// double result;
+// result = ((a + b + c + d + e + f) / 6);
+// Console.WriteLine("Результат среднего арифметического = " + result);
 
 
+// string str = "12";
+// try
+// {
+//     double.Parse(str);
+//     double a = double.Parse(str);
+//     Console.WriteLine("Успешная конвертация");
+// }
+// catch (Exception)
+// {
+//     Console.WriteLine("Ошибка при конвертации");
+// }
+
+// string str = "12ыукр";
+// int a;
+// bool result = int.TryParse(str, out a);
+// if (result)
+// {
+//     Console.WriteLine("Операция успешна, значение = "+ a);
+// }
+// else
+// {
+//     Console.WriteLine("Не удалось конвертировать!");
+// }
 
 
+// int a = 2;
+// int b = 5;
+// int result = a * b;
+// Console.WriteLine(result);
 
-
-
+int a = 11;
+int b = 3;
+int result = a % b;
+Console.WriteLine(result);
 
 
