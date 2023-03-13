@@ -1,29 +1,60 @@
-﻿// Напишите программы вычисляющую среднее арифметическое 2х чисел.
-// =========== 1 вариант решения ==========
-string simbol;
+﻿// Задача 1. Напишите программы вычисляющую среднее арифметическое 2х чисел.
+// 1 вариант решения:
 
-int a, b;
+// string simbol;
 
-Console.WriteLine("Введите первое число");
+// int a, b;
 
-simbol = Console.ReadLine();
+// Console.WriteLine("Введите первое число");
 
-a = Convert.ToInt32(simbol);
+// simbol = Console.ReadLine();
 
-Console.WriteLine("Введите второе число");
+// a = Convert.ToInt32(simbol);
 
-simbol = Console.ReadLine();
+// Console.WriteLine("Введите второе число");
 
-b = Convert.ToInt32(simbol);
+// simbol = Console.ReadLine();
 
-int result = (a + b) / 2;
+// b = Convert.ToInt32(simbol);
 
-Console.WriteLine("Среднее арифметическое двух чисел = " + result);
+// int result = (a + b) / 2;
 
-// =========== 2 вариант решения ===========
+// Console.WriteLine("Среднее арифметическое двух чисел = " + result);
+
+//  2 вариант решения: 
 
 // int a, b;
 // a = 5;
 // b = 5;
 // int result = (a + b) / 2;
 // Console.WriteLine(result);
+
+// Задача 2. Введите 3 числа и выведите на экран значение суммы и произведения этих чисел.
+
+// 1 вариант решения:
+
+// int a = 2, b = 3, c = 4;
+// int summ = a + b + c;
+// int multi = a * b * c;
+// Console.WriteLine("Сумма чисел = " + summ);
+// Console.WriteLine("Произведение чисел = " + multi);
+
+// 2 вариант решения:
+// string str;
+// int a, b, c;
+// Console.WriteLine("Введите первое число:_");
+// str = Console.ReadLine();
+// a = Convert.ToInt32(str);
+// Console.WriteLine("Введите второе число:_");
+// str = Console.ReadLine();
+// b = Convert.ToInt32(str);
+// Console.WriteLine("Введите третье число:_");
+// str = Console.ReadLine();
+// c = Convert.ToInt32(str);
+// int summ = a+b+c;
+// int multi = a*b*c;
+// Console.WriteLine("Сумма чисел = " + summ);
+// Console.WriteLine("Произведение чисел = " + multi);
+
+// Задача 3. Напишите просто конвертер валют.
+
