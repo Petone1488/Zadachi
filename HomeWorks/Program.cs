@@ -29,6 +29,23 @@
 // int result = (a + b) / 2;
 // Console.WriteLine(result);
 
+// 3 вариант решения.
+
+// double firstValue, SecondValue;
+
+// Console.WriteLine("Введите первое число");
+
+// firstValue = double.Parse(Console.ReadLine());
+
+// Console.WriteLine("Введите второе число");
+
+// SecondValue = double.Parse(Console.ReadLine());
+
+// double result = (firstValue + SecondValue) / 2;
+
+// Console.WriteLine("Среднее арифметическое двух чисел = " + result);
+
+
 // Задача 2. Введите 3 числа и выведите на экран значение суммы и произведения этих чисел.
 
 // 1 вариант решения:
@@ -56,5 +73,33 @@
 // Console.WriteLine("Сумма чисел = " + summ);
 // Console.WriteLine("Произведение чисел = " + multi);
 
-// Задача 3. Напишите просто конвертер валют.
+// 3 вариант решения:
+
+// double firstValue, SecondValue, thirdValue;
+
+// Console.WriteLine("Введите первое число:");
+
+// firstValue = double.Parse(Console.ReadLine());
+
+// Console.WriteLine("Введите второе число:");
+
+// SecondValue = double.Parse(Console.ReadLine());
+
+// Console.WriteLine("Введите третье число:");
+
+// thirdValue = double.Parse(Console.ReadLine());
+
+// double summResult = firstValue+SecondValue+thirdValue;
+// double multiResult = firstValue*SecondValue*thirdValue;
+
+// Console.WriteLine("Сумма чисел = " + summResult);
+// Console.WriteLine("Произведение чисел = " + multiResult);
+
+// Задача 3. Напишите простой конвертер валют.
+
+double UsdToRub;
+double UsdToBad;
+
+System.Console.WriteLine("ВВведите сумму в USD:");
+
 
