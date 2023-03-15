@@ -97,9 +97,15 @@
 
 // Задача 3. Напишите простой конвертер валют.
 
-double UsdToRub;
-double UsdToBad;
+// double UsdToRub = 75.46;
+// double UsdToBad = 35.59;
 
-System.Console.WriteLine("ВВведите сумму в USD:");
+// System.Console.WriteLine("ВВведите сумму в USD:");
+
+// double USD;
+// USD = double.Parse(Console.ReadLine());
+
+// System.Console.WriteLine("Сумма в рублях = " + UsdToRub * USD);
+// System.Console.WriteLine("Сумма в бадах = " + UsdToBad * USD);
 
 
