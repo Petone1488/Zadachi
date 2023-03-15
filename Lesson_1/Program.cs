@@ -70,9 +70,32 @@
 // int result = a * b;
 // Console.WriteLine(result);
 
-int a = 11;
-int b = 3;
-int result = a % b;
-Console.WriteLine(result);
+// int a = 11;
+// int b = 3;
+// int result = a % b;
+// Console.WriteLine(result);
+
+// ======================= Инкремент и декремент. Постфиксный и префиксный. ====================
+
+// int a = 0;
+// System.Console.WriteLine(++a);
+
+// ======================= Операторы отношений. Операции сравнений ===============================
+
+// int a = 5;
+// int b=5;
+// System.Console.WriteLine(a==b);
+// System.Console.WriteLine(a<b);
+// System.Console.WriteLine(a>b);
+// System.Console.WriteLine(a!=b);
+// System.Console.WriteLine(a>=b);
+// System.Console.WriteLine(a<=b);
+
+// =========================== Конструкция IF ELSE ===================================
+
+
+
+
+
 
 
